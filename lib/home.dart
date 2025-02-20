@@ -13,7 +13,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        child: Icon(Icons.accessibility_new_outlined),
+        child: Icon(Icons.home),
       ),
     );
   }
